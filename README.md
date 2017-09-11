@@ -10,5 +10,5 @@ docker build -t tensorflow-app .
 docker run -ti -p 6006:6006 tensorflow-app
 ```
 
-At this point, you should be able to view Tensorboard in your browser at [http://localhost:6006]
+At this point, you should be able to view Tensorboard in your browser at [http://localhost:6006](http://localhost:6006)
 
